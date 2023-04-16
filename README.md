@@ -1,4 +1,4 @@
-#Output:
+# OUTPUT
 ![image](https://user-images.githubusercontent.com/81528176/232319566-b1f57c39-c19a-4be5-a199-689a69c09a8c.png)
 
 # Getting Started with Create React App
